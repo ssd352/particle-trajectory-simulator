@@ -1,4 +1,4 @@
-﻿// 2011 SS D
+// Copyright (c) 2011 SS D
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
