@@ -69,7 +69,7 @@ namespace EBF
         }
         class ldm : Exception
         {
-            ///is thrown when L or D are minus
+            ///is thrown when L or D are negative
         }
         class ni : Exception
         {
